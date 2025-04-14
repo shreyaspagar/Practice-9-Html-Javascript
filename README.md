@@ -1,1 +1,1 @@
-# Practice-9-Html-Javascript
+# Practice-2-Html-Javascript
